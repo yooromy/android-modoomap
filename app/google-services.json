@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111560574705",
+    "project_id": "moodu-map",
+    "storage_bucket": "moodu-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111560574705:android:be82cba3d52bed084b0b50",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdx8eLZY_y5S-CofxoOmBNHSCX_HYoBrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
